@@ -10,7 +10,6 @@ Hello! I'm Jiabao, a computer science student with a passion for full-stack deve
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
@@ -25,6 +24,7 @@ Hello! I'm Jiabao, a computer science student with a passion for full-stack deve
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-%23282C34?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-%23282C34?&logo=Amazon-AWS)
+![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
 
 
 ### 📬 Contact Me
